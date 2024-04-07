@@ -1,0 +1,14 @@
+.tableContainer {
+    width: '100%';
+}
+
+.MuiDataGrid-columnHeaderTitle {
+    padding: 20px;
+    font-size: smaller;
+}
+
+.MuiDataGrid-cell {
+    padding: 0 30px !important;
+    font-size: small;
+    color: #b1bbc8;
+}

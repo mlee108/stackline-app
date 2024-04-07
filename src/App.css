@@ -1,0 +1,41 @@
+/* .App {
+  text-align: center;
+} */
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f6f8fa;
+  /* font-size: calc(10px + 2vmin); */
+}
+
+.navbar {
+  background-color: #062849;
+  width: 100%;
+  padding: 2vh 0 2vh 3vw;
+}
+
+.logo {
+  height: 20px;
+}
+
+.contents {
+  
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  background-color: white;
+  margin: 8vh 10px;
+  /* padding-top: 10vh; */
+}
+
+/* .graph {
+  display: block;
+  width: 70vw;
+  height: 50vh;
+} */

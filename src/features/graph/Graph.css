@@ -1,0 +1,24 @@
+h2 {
+    margin: 0;
+    padding: 20px 30px;
+    font-size: medium;
+    font-weight: normal;
+}
+
+.graphContainer {
+    width: 70vw;
+    height: 70vh;
+}
+
+.MuiChartsAxis-tickLabel {
+    fill: #b1bbc8 !important;
+    text-anchor: start !important;
+}
+
+.MuiChartsAxis-tick {
+    stroke-width: 0;
+}
+
+.MuiChartsAxis-line {
+    stroke: #b1bbc8 !important;
+}
